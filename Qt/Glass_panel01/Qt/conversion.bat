@@ -1,0 +1,1 @@
+pyuic5 test01.ui -o test01.py
